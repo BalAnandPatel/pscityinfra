@@ -1,0 +1,141 @@
+[15-Nov-2022 15:32:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/glintqnj/pscityinfra.com/user/api/objects/Users.php:178
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/user/api/src/Users/UserType_Read.php(35): Users->UserType_Read()
+#1 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/user/api/objects/Users.php on line 178
+[22-Nov-2022 04:40:41 UTC] PHP Warning:  include_once(../../../logger.php): Failed to open stream: No such file or directory in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:40:41 UTC] PHP Warning:  include_once(): Failed opening '../../../logger.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 10:10:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function logger() in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php:83
+Stack trace:
+#0 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 83
+[22-Nov-2022 04:40:54 UTC] PHP Warning:  include_once(../../../logger.php): Failed to open stream: No such file or directory in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:40:54 UTC] PHP Warning:  include_once(): Failed opening '../../../logger.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:41:00 UTC] PHP Warning:  include_once(../../../logger.php): Failed to open stream: No such file or directory in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:41:00 UTC] PHP Warning:  include_once(): Failed opening '../../../logger.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:42:24 UTC] PHP Warning:  include_once(../../../logger.php): Failed to open stream: No such file or directory in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:42:24 UTC] PHP Warning:  include_once(): Failed opening '../../../logger.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:42:36 UTC] PHP Warning:  include_once(../../../logger.php): Failed to open stream: No such file or directory in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:42:36 UTC] PHP Warning:  include_once(): Failed opening '../../../logger.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:42:41 UTC] PHP Warning:  include_once(../../../logger.php): Failed to open stream: No such file or directory in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:42:41 UTC] PHP Warning:  include_once(): Failed opening '../../../logger.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:44:34 UTC] PHP Warning:  include_once(../../../logger.php): Failed to open stream: No such file or directory in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:44:34 UTC] PHP Warning:  include_once(): Failed opening '../../../logger.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 10:14:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function logger() in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php:83
+Stack trace:
+#0 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 83
+[22-Nov-2022 04:44:40 UTC] PHP Warning:  include_once(../../../logger.php): Failed to open stream: No such file or directory in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 04:44:40 UTC] PHP Warning:  include_once(): Failed opening '../../../logger.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 11
+[22-Nov-2022 10:14:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function logger() in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php:83
+Stack trace:
+#0 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/user/api/src/Users/User_Login.php on line 83
+[22-Nov-2022 11:41:49 Asia/Kolkata] PHP Warning:  Attempt to read property "UserId" on null in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php on line 22
+[22-Nov-2022 11:53:05 Asia/Kolkata] PHP Warning:  Attempt to read property "UserId" on null in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php on line 22
+[22-Nov-2022 17:40:13 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php:46
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(46): array_push(NULL, Array)
+#1 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php on line 46
+[22-Nov-2022 17:40:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php:46
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(46): array_push(NULL, Array)
+#1 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php on line 46
+[22-Nov-2022 17:40:58 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php:46
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(46): array_push(NULL, Array)
+#1 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php on line 46
+[22-Nov-2022 17:41:58 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php:46
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(46): array_push(NULL, Array)
+#1 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php on line 46
+[22-Nov-2022 17:42:20 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php:46
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(46): array_push(NULL, Array)
+#1 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php on line 46
+[22-Nov-2022 17:42:34 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php:46
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(46): array_push(NULL, Array)
+#1 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php on line 46
+[22-Nov-2022 17:43:02 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php:46
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(46): array_push(NULL, Array)
+#1 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php on line 46
+[22-Nov-2022 17:43:38 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php:46
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(46): array_push(NULL, Array)
+#1 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php on line 46
+[22-Nov-2022 17:49:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home2/glintqnj/pscityinfra.com/api/objects/Users.php:140
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Users.php(140): PDOStatement->bindParam(':parentId', Object(stdClass))
+#1 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(25): Users->get_child()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Users.php on line 140
+[22-Nov-2022 17:49:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home2/glintqnj/pscityinfra.com/api/objects/Users.php:140
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Users.php(140): PDOStatement->bindParam(':parentId', Object(stdClass))
+#1 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(25): Users->get_child()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Users.php on line 140
+[22-Nov-2022 17:49:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home2/glintqnj/pscityinfra.com/api/objects/Users.php:140
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Users.php(140): PDOStatement->bindParam(':parentId', Object(stdClass))
+#1 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(25): Users->get_child()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Users.php on line 140
+[22-Nov-2022 17:50:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home2/glintqnj/pscityinfra.com/api/objects/Users.php:140
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Users.php(140): PDOStatement->bindParam(':parentId', Object(stdClass))
+#1 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(25): Users->get_child()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Users.php on line 140
+[22-Nov-2022 17:51:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home2/glintqnj/pscityinfra.com/api/objects/Users.php:140
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Users.php(140): PDOStatement->bindParam(':parentId', Object(stdClass))
+#1 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(25): Users->get_child()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Users.php on line 140
+[22-Nov-2022 17:51:59 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home2/glintqnj/pscityinfra.com/api/objects/Users.php:140
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Users.php(140): PDOStatement->bindParam(':parentId', Object(stdClass))
+#1 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(25): Users->get_child()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Users.php on line 140
+[22-Nov-2022 17:53:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home2/glintqnj/pscityinfra.com/api/objects/Users.php:140
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Users.php(140): PDOStatement->bindParam(':parentId', Object(stdClass))
+#1 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(25): Users->get_child()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Users.php on line 140
+[22-Nov-2022 17:55:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home2/glintqnj/pscityinfra.com/api/objects/Users.php:140
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Users.php(140): PDOStatement->bindParam(':parentId', Object(stdClass))
+#1 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(25): Users->get_child()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Users.php on line 140
+[22-Nov-2022 17:56:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home2/glintqnj/pscityinfra.com/api/objects/Users.php:140
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Users.php(140): PDOStatement->bindParam(':parentId', Object(stdClass))
+#1 /home2/glintqnj/pscityinfra.com/api/src/Users/User_Child_Read.php(25): Users->get_child()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Users.php on line 140
+[29-Dec-2022 11:24:16 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'tmp' already exists in /home2/glintqnj/pscityinfra.com/api/objects/Users.php:390
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Users.php(390): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/Users/call_sp_get_next_position.php(19): Users->Call_sp_get_next_position()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Users.php on line 390
+[18-Jan-2023 16:38:03 Asia/Kolkata] PHP Warning:  Attempt to read property "UserId" on null in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Login.php on line 35
+[18-Jan-2023 16:38:03 Asia/Kolkata] PHP Warning:  Attempt to read property "Password" on null in /home2/glintqnj/pscityinfra.com/api/src/Users/User_Login.php on line 36
+[19-Jan-2023 16:15:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function logger() in /home2/glintqnj/pscityinfra.com/api/src/Users/User_ReadById.php:59
+Stack trace:
+#0 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/src/Users/User_ReadById.php on line 59

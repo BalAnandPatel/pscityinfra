@@ -1,0 +1,88 @@
+[19-Jan-2023 13:21:28 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 14:27:14 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:03:29 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:11:00 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:16:05 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:16:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:17:20 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:20:30 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:21:06 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:23:29 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:34:24 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(58): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 11:06:31 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php on line 21
+[19-Jan-2023 11:07:12 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php on line 21
+[19-Jan-2023 11:07:17 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php on line 21
+[19-Jan-2023 11:08:02 UTC] PHP Parse error:  syntax error, unexpected token "echo" in /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php on line 21
+[19-Jan-2023 16:38:57 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(59): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:39:52 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(59): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
+[19-Jan-2023 16:41:21 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '00001' for key 'PurchaseInvoiceId' in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php:176
+Stack trace:
+#0 /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php(176): PDOStatement->execute()
+#1 /home2/glintqnj/pscityinfra.com/api/src/site_PurchaseDetails/sitePurchaseDetails_Create.php(59): SitePurchaseHistory->sitePurchaseDetails_Create()
+#2 {main}
+  thrown in /home2/glintqnj/pscityinfra.com/api/objects/Site_Purchasehistory.php on line 176
