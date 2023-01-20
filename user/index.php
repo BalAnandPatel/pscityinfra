@@ -1,3 +1,4 @@
+<?php include '../constant.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,11 +24,11 @@
   <div class="card">
     <div class="card-body login-card-body">
                <!-- <button type="button" class="btn btn-success toastrDefaultSuccess"> </button> -->
-                <?php include '../constant.php'; if(isset($_SESSION["loginFailed"])){?>
+                <?php if(isset($_SESSION["loginFailed"])){?>
                 <div class="alert alert-danger" id="success-alert" role="alert">
                 <?php echo $_SESSION['loginFailed']; unset($_SESSION['loginFailed']);?>
                </div><?php }?>
-               <?php include '../constant.php'; if(isset($_SESSION["ForgotPassword"])){?>
+               <?php if(isset($_SESSION["ForgotPassword"])){?>
                 <div class="alert alert-success" id="success-alert" role="alert">
                 <?php echo $_SESSION['ForgotPassword']; unset($_SESSION['ForgotPassword']);?>
                </div><?php }?>

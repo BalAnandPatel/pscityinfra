@@ -4,9 +4,9 @@ class Database{
   
     // specify your own database credentials
     private $host = "localhost";
-    private $db_name = "glintqnj_pscity";
-    private $username = "glintqnj_pscity";
-    private $password = "12qw!@QW9984";
+    private $db_name = "pscity";
+    private $username = "root";
+    private $password = "root";
     public $conn;  
    
   

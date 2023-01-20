@@ -1,9 +1,9 @@
 <?php
-//error_reporting(0);
 session_start();
+//error_reporting(0);
 date_default_timezone_set('Asia/Kolkata');
 
-$BASE_URL="http://pscityinfra.com";
+$BASE_URL="http://localhost/pscityinfra/";
 $URL=$BASE_URL."/api/src/";
 //$IN_URL=$BASE_URL."/user/api/src/";
 $TREE_SIZE=8;

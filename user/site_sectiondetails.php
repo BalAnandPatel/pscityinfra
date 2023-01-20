@@ -31,7 +31,7 @@ $result = json_decode($response);
   <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <?php if(isset($_SESSION['siteEntry'])){?>
-                <div class="alert alert-success" id="success-alert" role="alert">
+                <div class="alert alert-success rounded-0" id="success-alert" role="alert">
                 <?php echo $_SESSION['siteEntry']; unset($_SESSION['siteEntry'])?> 
                </div>
             <?php  }?>

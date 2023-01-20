@@ -43,7 +43,7 @@ $result = json_decode($response);
     </div>
     
           <?php if(isset($_SESSION['user_profile'])){?>
-                <div class="alert alert-success" id="success-alert" role="alert">
+                <div class="alert alert-success rounded-0" id="success-alert" role="alert">
                 <?php echo $_SESSION['user_profile']; unset($_SESSION['user_profile'])?> 
                </div>
             <?php  }?>

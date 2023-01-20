@@ -4,7 +4,7 @@ include "include/header.php";
 <!-- Content Wrapper. Contains page content -->
 <div class="content-wrapper">
 <?php if(isset($_SESSION['siteEntry'])){?>
-                <div class="alert alert-danger" id="success-alert" role="alert">
+                <div class="alert alert-danger rounded-0" id="success-alert" role="alert">
                 <?php echo $_SESSION['siteEntry']; unset($_SESSION['siteEntry'])?> 
                </div>
             <?php  }?>
@@ -49,7 +49,8 @@ include "include/header.php";
             <!-- form start -->
             <form action="action/site_section_entry_post.php" method="post">
               <div class="card-body">
-
+               <div class="form-group">
+                <lebel>Site Name*</lebel>
                 <div class="input-group mb-3">
                   <div class="input-group-append">
                     <div class="input-group-text">
@@ -58,7 +59,10 @@ include "include/header.php";
                   </div>
                   <input type="text" class="form-control" placeholder="Enter Site Name" name="SiteName" required autocomplete="off" data-toggle="tooltip" title="Please Enter Site Name">
                 </div>
+              </div>
 
+              <div class="form-group">
+              <lebel>Site Section*</lebel>
                 <div class="input-group mb-3">
                   <div class="input-group-append">
                     <div class="input-group-text">
@@ -67,7 +71,10 @@ include "include/header.php";
                   </div>
                   <input type="text" class="form-control" placeholder="SiteSection" name="SiteSection" required autocomplete="off" data-toggle="tooltip" title="Please Enter Section Name Such as : A,B etc.">
                 </div>
-
+              </div>
+               
+                <div class="form-group">
+                <lebel>Plot Depth(In Feet)*</lebel>
                 <div class="input-group mb-3">
                   <div class="input-group-append">
                     <div class="input-group-text">
@@ -76,7 +83,10 @@ include "include/header.php";
                   </div>
                   <input type="number" class="form-control" placeholder="Enter Plot Depth(Feet)" name="SiteDepth" required autocomplete="off" data-toggle="tooltip" title="Please Enter Plot Depth (In Feet)">
                 </div>
-
+              </div>
+               
+                <div class="form-group">
+                <lebel>Total Ploted Area(Square Feet)*</lebel>
                 <div class="input-group mb-3">
                   <div class="input-group-append">
                     <div class="input-group-text">
@@ -85,7 +95,10 @@ include "include/header.php";
                   </div>
                   <input type="number" class="form-control" placeholder="Total Ploted Area(Square Feet)" name="SiteTotalArea" required autocomplete="off" data-toggle="tooltip" title="Please Enter Total Ploted Area(Square Feet)">
                 </div>
+              </div>
 
+                <div class="form-group">
+                <lebel>Amount (Per Square Feet)*</lebel>
                 <div class="input-group mb-3">
                   <div class="input-group-append">
                     <div class="input-group-text">
